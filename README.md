@@ -123,6 +123,14 @@ Applied the **Law of Total Probability** to find `P(Pass) ≈ 0.667`, then appli
 
 ---
 
+## 🎥 Watch the Project Explainer Video
+
+Want a full walkthrough of this project in action? Check out the explainer video below! 🍿
+
+▶️ **[Watch on Google Drive](https://drive.google.com/file/d/1fcQQwSUjzYy1MMU64NerT1KZGuQWJ9_w/view?usp=sharing)**
+
+---
+
 ## 📖 Theory Reference
 
 All the underlying theory — probability definitions, formulas, worked examples, and step-by-step derivations — is documented in `Theory.pdf`, which pairs perfectly with the notebook's practical implementation. 📝
